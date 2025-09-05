@@ -1,0 +1,27 @@
+# F1 Strategy Analysis - Python Requirements
+# Core data science and numerical computing
+numpy>=1.21.0
+pandas>=1.3.0
+scipy>=1.7.0
+
+# F1 telemetry data
+fastf1>=3.0.0
+
+# Bayesian modeling and probabilistic programming
+jax>=0.4.0
+jaxlib>=0.4.0
+numpyro>=0.12.0
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Progress bars
+tqdm>=4.62.0
+
+# Development and testing (optional)
+jupyter>=1.0.0
+pytest>=6.0.0
+
+# Data validation (optional)
+pydantic>=1.8.0
